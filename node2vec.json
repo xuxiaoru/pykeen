@@ -1,0 +1,13 @@
+{
+    "nodes": [
+      {"id": "1", "type": "entity"},
+      {"id": "2", "type": "entity"},
+      {"id": "3", "type": "entity"}
+    ],
+    "relationships": [
+      {"source": "1", "target": "2", "type": "relationship"},
+      {"source": "2", "target": "3", "type": "relationship"},
+      {"source": "1", "target": "3", "type": "relationship"}
+    ]
+  }
+  
